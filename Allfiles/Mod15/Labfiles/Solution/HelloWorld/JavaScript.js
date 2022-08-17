@@ -1,0 +1,1 @@
+﻿alert("javascript from seperate page");
