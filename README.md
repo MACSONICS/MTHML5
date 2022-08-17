@@ -1,1 +1,1 @@
-# MTHML5 CSS3 AND Javascript
+# HTML5 CSS3 AND Javascript
